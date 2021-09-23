@@ -10,7 +10,7 @@ metadata:
     - url: https://example.com/user
       title: Examples Users
       icon: user
-    - url: https://example.com/group
+    - url: https://git.xoho.dev
       title: Example Group
       icon: group
     - url: https://example.com/cloud
